@@ -3,12 +3,14 @@ body {
 }
 
 h1 {
+    font-size: xx-large;
     text-align: center;
     color: white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2 {
+    font-size: large;
     color: gold;
     text-align: center;
     font-weight: 300;
@@ -16,10 +18,15 @@ h2 {
 }
 
 p {
+    font-size: medium;
     color: white;
     text-align: center;
 }
 
 .phar {
     line-height: 2;
+}
+
+img {
+    width: 100%;
 }
